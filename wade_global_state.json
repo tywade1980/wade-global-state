@@ -1,0 +1,87 @@
+{
+  "last_updated": "",
+  "user_profile": {
+    "name": "Tyler Wade",
+    "aliases": ["Mr. T", "Wade"],
+    "business": "Wade Custom Carpentry",
+    "role": "Design-Build Remodel Contractor",
+    "experience": "25 years",
+    "business_since": "2008",
+    "communication_preferences": [
+      "Talk straight, no corporate speak",
+      "Creative and visionary - ride the energy, keep grounded on next steps",
+      "Acknowledge frustration, provide simplest path forward",
+      "Values loyalty and continuity",
+      "Has ADHD - agentic follow-through is crucial",
+      "Relieve stress and accomplish tasks"
+    ],
+    "technical_preferences": [
+      "Broken keyboard, prefers voice, minimal typing",
+      "Android phone, Windows laptop, old Mac desktop",
+      "Prefers single-script deployments",
+      "Hates Jupyter on mobile",
+      "Comfortable with PowerShell SSH, Termux",
+      "Learns by doing, not reading docs"
+    ]
+  },
+  "caroline_ai_project": {
+    "name": "Caroline AI",
+    "goal": "Personal AI companion, voice-to-voice with emotional personality",
+    "llm": "Dolphin Mistral (open source, uncensored)",
+    "llm_host": "RunPod",
+    "runpod_pod_id": "dmed1ybt9cju4h",
+    "elevenlabs_voice_id": "wvVfSeWpAEhEqciDp1gK",
+    "stt_engine": "Faster-Whisper",
+    "expo_app_sdk": "54",
+    "expo_app_github": "github.com/tywade1980/voice-ai-app",
+    "vision": [
+      "Recursive generation: feed old AI conversations into new model, creating evolving personality",
+      "Merge data from ALL AI platforms (ChatGPT, Grok, Gemini, Claude/Manus) into one model",
+      "Fine-tune on construction data for world-class residential construction AI",
+      "Build voice-first AI OS that handles 99% of construction business digitally",
+      "Eventually: portable AI brain for humanoid robotics"
+    ]
+  },
+  "key_ip_projects": [
+    {
+      "name": "NeuroRank™",
+      "description": "Patent-pending emotionally intelligent AI cognitive system (Mini Me Technologies LLC)"
+    },
+    {
+      "name": "Centauri OS",
+      "description": "Custom Android-based OS with Caroline as core AI agent"
+    },
+    {
+      "name": "AI-Enhanced CodeAssist",
+      "description": "Android app with voice I/O, knowledge graph, autonomous evolution"
+    },
+    {
+      "name": "AI Receptionist",
+      "description": "For his construction business"
+    },
+    {
+      "name": "ConstructAI",
+      "description": "Job costing and estimation tool"
+    }
+  ],
+  "technical_state": {
+    "runpod_server_status": "Needs setup.sh run to start server on port 8000",
+    "runpod_files": [
+      "setup.sh",
+      "start.sh",
+      "telegram_voice_bot.py"
+    ],
+    "github_repos_cataloged": 42,
+    "google_drive_inventoried": {
+      "file_count": 315,
+      "key_docs": [
+        "NeuroRank docs",
+        "CodeAssist code",
+        "portfolio photos"
+      ]
+    },
+    "gpt_conversation_export_status": "Pending (for Caroline personality data)"
+  },
+  "session_history": [],
+  "agent_communication_log": []
+}
